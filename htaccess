@@ -1,0 +1,8 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page36900737.html
+
+RewriteEngine On
+
+
